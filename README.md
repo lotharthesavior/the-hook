@@ -1,6 +1,8 @@
 
 # The Hook
 
+[![Build and Test](https://github.com/lotharthesavior/the-hook/actions/workflows/tests.yml/badge.svg)](https://github.com/lotharthesavior/the-hook/actions/workflows/tests.yml)
+
 This Rust library provides a simple filtering mechanism where functions (filters) can be registered and applied to values. Filters are associated with hooks (unique names), allowing multiple transformations to be applied to values sequentially in order of priority.
 
 ## Features
