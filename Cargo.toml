@@ -1,6 +1,6 @@
 [package]
 name = "hook"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Savio Resende <savio@savioresende.com>"]
 description = "A filtering mechanism where functions (filters) can be registered, prioritized, and applied sequentially to values associated with named hooks. In Rust."
